@@ -1,8 +1,38 @@
+body{
+	padding: 50px;
+	margin: 0px;
+}
+.navbar{
+	float: left;
+	box-sizing: border-box;
+	text-align: center;
+	width: 100%;
+	position: fixed;
+	background-color: orange;
+	padding: 20px;
+	left: 0px;
+	right: 0px;
+}
+.navbar ul{
+	list-style-type: none;
+	margin-top: 0px;
+}
+.navbar ul li{
+	display: inline;
+	margin-left: 50px;
+}
 .box{
 	height: 100px;
 	width: calc(25% - 10px);
 	margin: 5px;
-	background-color: gray;
+	background-color: white;
 	box-sizing: border-box;
 	float: left;
+}
+p{
+	padding: 10px;
+	text-align: center;
+}
+h4{
+	text-align: left;	
 }
