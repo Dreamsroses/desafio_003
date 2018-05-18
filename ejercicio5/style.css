@@ -1,0 +1,9 @@
+.fotomain{
+	position: absolute;
+	margin-left: 10px;
+	border-style: groove;
+}
+.ribbon{
+	position: relative;
+	margin: 10px;
+}
