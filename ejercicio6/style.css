@@ -1,0 +1,12 @@
+.fotomain{
+	position: absolute;
+	margin-left: 10px;
+	border-style: groove;
+}
+.oferta{
+	position: relative;
+	padding: 140px;
+	margin: 5px 10px;
+	height: 80px;
+	width: 80px;
+}
